@@ -1,0 +1,12 @@
+This mod will have more stuff... soon. My first mod, going great so far.
+It's just got like a lotta weapons, an armor set, an enemy, 2 bosses, and a town NPC right now lol. 
+Lots of stuff inspired by the game Spiral Knights because I'm not feeling creative, and these designs are cool lookin. 
+
+v.0.1.11
+Added a couple of accessories, a pet, new Catalyst weapon (which took me forever to make), droprate and balance changes.
+
+v.0.1.10
+Added several new weapons. Antigua line is now available with Bark Modules. Some balance changes and reworks of weapons.
+
+v.0.1.8 & v.0.1.9
+New boss Roarmulus Twins. Not much to get from him yet but that's a WIP. Also a few new weapons. Hotfix buffed Roarmulus Twins' AI, since it was lacking and too easy to cheese.

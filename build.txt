@@ -1,0 +1,3 @@
+displayName = Pteran Mod
+author = ⳩tera
+version = 0.1.11
