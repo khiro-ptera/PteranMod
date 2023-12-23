@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDrunzwTfChcPEOlVxVT5QMokQxe7pADeGLSueuhQVHxQsQLK/6XtpOiozeACGl2O6XsHewpkcKHvbrwi+/Ztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srx20\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\PteranMod\\PteranMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srx20\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
